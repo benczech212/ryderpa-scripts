@@ -1,0 +1,13 @@
+{
+    "ItemsClosed": [
+    {
+        "SKU": "ITEM001",
+        "Receipt": "REC001"
+    },{
+        "SKU": "ITEM002",
+        "Receipt": "REC002"
+    },{
+        "SKU": "ITEM003",
+        "Receipt": "REC003"
+    }]
+}

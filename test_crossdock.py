@@ -4,7 +4,7 @@ import socket
 import sys
 
 MESSAGE_LENGTH = 16
-default_host = "10.240.42.11"
+default_host = "10.240.42.13"
 default_port = 11111
 default_message = "02038|11|00000218640153634799|04|"
 
