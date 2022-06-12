@@ -1,0 +1,20 @@
+{
+    "ROSKUContainerCount": "5",
+    "UpdateTables": false,
+    "ExpectedWeight": 5.0,
+    "ActualWeight": 5.0,
+    "ReceiptId": "RECTEST",
+    "ExpectedDimensions": {
+        "DimL": 5.0,
+        "DimW": 5.0,
+        "DimH": 5.0
+    },
+    "ActualDimensions": {
+        "DimL": 5.0,
+        "DimW": 5.0,
+        "DimH": 5.0
+    },
+    "SKU": "ITEMTEST",
+    "ContainerLPN": "LPNTEST"
+}
+

@@ -1,0 +1,25 @@
+{
+    "SKU": "ITEMTEST",
+    "ReceiptID": "RECTEST",
+    "ContainerLPNs": "LPNTEST1,LPNTEST2,LPNTEST3,LPNTEST4",
+    "PalletLPN": "PALLETLPNTEST",
+    "ContainerDims": {
+        "DimL": 5.0,
+        "DimW": 5.0,
+        "DimH": 5.0
+    },
+    "ContainerWeight": 1.0,
+    "TiHi": {
+        "NoOfLayers": 5,
+        "ContainersPerLayer": 2,
+        "LayerGridFormation": "LAYERGRIDFORMATIONTEST",
+        "ContainersPerPallet": 10,
+        "EstimatedTiHiDims": {
+            "DimL": 10.0,
+            "DimW": 10.0,
+            "DimH": 10.0
+        },
+        "EstimatedTiHiWeight": 10
+    }
+}
+

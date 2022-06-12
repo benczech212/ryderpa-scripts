@@ -3,3 +3,6 @@
 
 # wms emulator
 (cd /var/log/wmsemulator/ && tail -f $(ls -t | head -1))
+
+
+    (cd /var/log/commcore/ && tail -f $(ls -t | head -1))
